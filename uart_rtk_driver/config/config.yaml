@@ -1,0 +1,7 @@
+
+
+uartCOM: /dev/ttyUSB1
+baudrate: 115200
+frame_id: /imu_link
+rtk_topic: /rtk_data
+rtk_yaw_topic: /rtk_yaw_data
